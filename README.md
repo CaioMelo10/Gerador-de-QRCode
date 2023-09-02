@@ -9,4 +9,6 @@ Este aplicativo utiliza um serviço de terceiros para gerar QR codes com base na
 
 👥 Confira:
 
+https://geradordeqrcode-dev.netlify.app/
+
 <img src="./public/resultado.png">
